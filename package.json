@@ -1,10 +1,27 @@
-﻿{
-  "name": "crumbbaker",
+{
+  "name": "com.cookiejartools.crumbbaker",
   "version": "0.0.1",
-  "description": "A Package Release Tool",
+  "displayName": "Crumb Baker",
+  "description": "Checks a package against a set of file rules before you release it: what must be there, what should be, and what the manifest must say.",
+  "unity": "6000.0",
   "license": "MIT",
+  "author": {
+    "name": "CookieJarTools",
+    "url": "https://github.com/CookieJarTools"
+  },
+  "keywords": [
+    "packages",
+    "release",
+    "validation"
+  ],
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/CookieJarTools/CrumbBaker"
-  }
+  },
+  "documentationUrl": "https://github.com/CookieJarTools/CrumbBaker#readme",
+  "changelogUrl": "https://github.com/CookieJarTools/CrumbBaker/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/CookieJarTools/CrumbBaker/blob/main/LICENSE.md"
 }
