@@ -1,0 +1,10 @@
+﻿{
+  "name": "crumbbaker",
+  "version": "0.0.1",
+  "description": "A Package Release Tool",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CookieJarTools/CrumbBaker"
+  }
+}
